@@ -1,0 +1,14 @@
+C:\cursocsharp\xadrez_console\bin\Debug\net8.0\xadrez_console.exe
+C:\cursocsharp\xadrez_console\bin\Debug\net8.0\xadrez_console.deps.json
+C:\cursocsharp\xadrez_console\bin\Debug\net8.0\xadrez_console.runtimeconfig.json
+C:\cursocsharp\xadrez_console\bin\Debug\net8.0\xadrez_console.dll
+C:\cursocsharp\xadrez_console\bin\Debug\net8.0\xadrez_console.pdb
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.AssemblyInfoInputs.cache
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.AssemblyInfo.cs
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.csproj.CoreCompileInputs.cache
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.dll
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\refint\xadrez_console.dll
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.pdb
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\xadrez_console.genruntimeconfig.cache
+C:\cursocsharp\xadrez_console\obj\Debug\net8.0\ref\xadrez_console.dll
